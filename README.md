@@ -4,7 +4,7 @@ Welcome to the Repository of Machine Learning Algorithms and Techniques!
 This repository contains a comprehensive collection of machine learning algorithms and techniques that are intended to be a useful resource for studying and applying various machine learning approaches. This repository has you covered whether you're a newbie eager to enter into the area of machine learning or an experienced practitioner searching for reference implementations.
 
 
-The following algorithms are included:
+The following algorithms are included: 
 
 Linear Regression: A fundamental approach for modelling the connection between continuous goal variables and input variables.
 
