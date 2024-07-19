@@ -5,7 +5,7 @@ This repository contains a comprehensive collection of machine learning algorith
 
 
 The following algorithms are included:
-
+ 
 Linear Regression: A fundamental approach for modelling the connection between continuous goal variables and input variables.
 
 Logistic Regression: A popular method for calculating the likelihood of a binary outcome in binary classification issues.
